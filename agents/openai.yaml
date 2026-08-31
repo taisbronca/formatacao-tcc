@@ -1,0 +1,4 @@
+interface:
+  display_name: "Formatação de TCC"
+  short_description: "Audita e formata TCCs conforme o manual"
+  default_prompt: "Use $formatacao-tcc para auditar este DOCX ponto a ponto conforme o manual institucional."

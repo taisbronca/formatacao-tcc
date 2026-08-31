@@ -1,0 +1,27 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Documentos acadêmicos e fontes potencialmente pessoais
+*.doc
+*.docx
+*.pdf
+*.odt
+
+# Relatórios e renderizações locais
+auditoria*.json
+*audit*.json
+relatorio*.json
+relatório*.json
+output/
+reports/
+renders/
+page-*.png
+page-*.jpg
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+*~
