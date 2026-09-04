@@ -2,7 +2,7 @@
 
 Skill não oficial para auditar documentos `.docx` de Projeto de Pesquisa, Resultados Preliminares e TCC dos cursos de especialização e MBA USP/Esalq. Pode ser utilizada no Codex, no Claude Code e, mediante upload, no Claude web ou desktop.
 
-A auditoria compara o documento com o *Manual de Instruções e Normas para Trabalhos de Conclusão de Curso*, edição do 2º semestre de 2025. Ela apresenta os problemas ponto a ponto e não modifica o arquivo durante a primeira análise. Alterações são feitas somente mediante solicitação explícita e sempre em uma cópia.
+A auditoria compara o documento com o *Manual de Instruções e Normas para Trabalhos de Conclusão de Curso*, edição do 2º semestre de 2025. Ela apresenta os problemas ponto a ponto e não modifica o arquivo durante a primeira análise.
 
 ## O que compõe a skill
 
